@@ -1,2 +1,2 @@
-# DSA__JOURNEY__ASMV
-This is where i start my coding journey learning DSA.
+# CODE_WITH_ASMV_I
+"Daily workspace tracking my programming consistency, C++ fundamentals, and algorithmic learning from day one."
